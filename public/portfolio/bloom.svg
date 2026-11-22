@@ -1,0 +1,31 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 700">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffe5d9"/><stop offset="1" stop-color="#ffb4a2"/></linearGradient>
+    <linearGradient id="liquid" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffd6e0"/><stop offset="1" stop-color="#fb6f92"/></linearGradient>
+  </defs>
+  <rect width="1000" height="700" fill="url(#bg)"/>
+  <circle cx="500" cy="350" r="270" fill="#fff" fill-opacity=".4"/>
+  <g transform="translate(500 350)">
+    <ellipse cx="0" cy="-170" rx="42" ry="120" fill="#fb6f92" fill-opacity=".55"/>
+    <ellipse cx="0" cy="-170" rx="42" ry="120" fill="#ff8fa3" fill-opacity=".55" transform="rotate(45)"/>
+    <ellipse cx="0" cy="-170" rx="42" ry="120" fill="#fb6f92" fill-opacity=".55" transform="rotate(90)"/>
+    <ellipse cx="0" cy="-170" rx="42" ry="120" fill="#ff8fa3" fill-opacity=".55" transform="rotate(135)"/>
+    <ellipse cx="0" cy="-170" rx="42" ry="120" fill="#fb6f92" fill-opacity=".55" transform="rotate(180)"/>
+    <ellipse cx="0" cy="-170" rx="42" ry="120" fill="#ff8fa3" fill-opacity=".55" transform="rotate(225)"/>
+    <ellipse cx="0" cy="-170" rx="42" ry="120" fill="#fb6f92" fill-opacity=".55" transform="rotate(270)"/>
+    <ellipse cx="0" cy="-170" rx="42" ry="120" fill="#ff8fa3" fill-opacity=".55" transform="rotate(315)"/>
+  </g>
+  <ellipse cx="500" cy="575" rx="120" ry="18" fill="#7a2e3b" fill-opacity=".25"/>
+  <rect x="470" y="185" width="60" height="60" rx="12" fill="#1f1f1f"/>
+  <rect x="482" y="240" width="36" height="46" fill="#e5e7eb"/>
+  <rect x="435" y="280" width="130" height="290" rx="34" fill="#ffffff"/>
+  <rect x="445" y="360" width="110" height="200" rx="26" fill="url(#liquid)" fill-opacity=".85"/>
+  <rect x="450" y="400" width="100" height="100" rx="12" fill="#fff"/>
+  <text x="500" y="445" text-anchor="middle" font-family="Georgia, serif" font-size="30" font-style="italic" fill="#be185d">bloom</text>
+  <text x="500" y="470" text-anchor="middle" font-family="Arial" font-size="9" letter-spacing="3" fill="#64748b">SERUM N°5</text>
+  <rect x="447" y="300" width="10" height="130" rx="5" fill="#fff" fill-opacity=".7"/>
+  <circle cx="210" cy="180" r="14" fill="#fff" fill-opacity=".7"/>
+  <circle cx="810" cy="230" r="22" fill="#fff" fill-opacity=".6"/>
+  <circle cx="780" cy="520" r="10" fill="#fff" fill-opacity=".7"/>
+  <circle cx="230" cy="500" r="18" fill="#fff" fill-opacity=".5"/>
+</svg>

@@ -1,0 +1,23 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 700">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fde68a"/><stop offset=".55" stop-color="#fb923c"/><stop offset="1" stop-color="#f43f5e"/></linearGradient>
+  </defs>
+  <rect width="1000" height="700" fill="url(#sky)"/>
+  <circle cx="500" cy="340" r="150" fill="#fff7ed" fill-opacity=".92"/>
+  <circle cx="500" cy="340" r="190" fill="none" stroke="#fff7ed" stroke-opacity=".35" stroke-width="3"/>
+  <circle cx="500" cy="340" r="235" fill="none" stroke="#fff7ed" stroke-opacity=".2" stroke-width="3"/>
+  <polygon points="0,500 160,370 290,470 470,320 640,480 790,390 1000,510 1000,700 0,700" fill="#be123c" fill-opacity=".55"/>
+  <polygon points="0,560 140,450 260,540 420,430 600,560 780,460 1000,570 1000,700 0,700" fill="#0f766e"/>
+  <polygon points="0,640 200,540 340,620 520,520 700,630 860,560 1000,640 1000,700 0,700" fill="#134e4a"/>
+  <polygon points="470,320 500,360 440,360" fill="#fff" fill-opacity=".7"/>
+  <polygon points="420,430 445,462 395,462" fill="#fff" fill-opacity=".6"/>
+  <text x="500" y="622" text-anchor="middle" font-family="Arial" font-size="58" font-weight="800" letter-spacing="18" fill="#fff7ed">ATLAS</text>
+  <g transform="translate(830 150)">
+    <circle r="72" fill="none" stroke="#fff7ed" stroke-width="3" stroke-dasharray="6 8"/>
+    <circle r="54" fill="#fff7ed" fill-opacity=".15"/>
+    <text y="-4" text-anchor="middle" font-family="Arial" font-size="20" font-weight="800" letter-spacing="3" fill="#fff7ed">ATLAS</text>
+    <text y="18" text-anchor="middle" font-family="Arial" font-size="10" letter-spacing="3" fill="#fff7ed">EST. 2019</text>
+  </g>
+  <path d="M180 190 q12 -14 24 0 q12 -14 24 0" fill="none" stroke="#7c2d12" stroke-width="4" stroke-linecap="round"/>
+  <path d="M250 130 q9 -10 18 0 q9 -10 18 0" fill="none" stroke="#7c2d12" stroke-width="4" stroke-linecap="round"/>
+</svg>
